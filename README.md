@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hwnag So Hyeon
 
 <!--
 **thgus/thgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=t01081418141)](https://solved.ac/t01081418141)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thgus&show_icons=true)](https://github.com/thgus/github-readme-stats)
+-->
+
+## 🌱 I’m currently learning ...
+  <img src="https://img.shields.io/badge/JavaScript-93b023?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-93b023?&style=for-the-badge&logo=React&logoColor=white"/>
+ 
